@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>resources/1.png</file>
+        <file>resources/2.png</file>
+        <file>resources/e.png</file>
+        <file>resources/left.png</file>
+        <file>resources/right.png</file>
+    </qresource>
+    <qresource prefix="/userconfig">
+        <file>userConfig/ANTERIOR.png</file>
+        <file>userConfig/Configuracion.png</file>
+        <file>userConfig/NO_OK.png</file>
+        <file>userConfig/OK.png</file>
+        <file>userConfig/SIGUIENTE.png</file>
+        <file>userConfig/usuario_add.png</file>
+        <file>userConfig/usuario_no_ok.png</file>
+        <file>userConfig/usuario_ok.png</file>
+        <file>userConfig/usuarioconfig.png</file>
+    </qresource>
+</RCC>

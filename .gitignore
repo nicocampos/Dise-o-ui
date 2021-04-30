@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+#Qt-Creator
+*.pro.user
+build-PID_Usuarios-Desktop_Qt_5_15_0_MinGW_32_bit-Debug
+build-PID_Usuarios-Desktop_Qt_5_15_0_MinGW_64_bit-Debug
